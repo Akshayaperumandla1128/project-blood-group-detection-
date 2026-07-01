@@ -1,0 +1,8 @@
+flask
+torch
+torchvision
+opencv-contrib-python
+scikit-learn
+pillow
+numpy
+requests
