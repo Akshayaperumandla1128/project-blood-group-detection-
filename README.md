@@ -1,3 +1,6 @@
+BLOODGROUP DETECTION USING FINGERPRINT:
+
+
 This is an interesting area of forensic and biometric research — the idea is that fingerprint patterns might statistically correlate with ABO blood groups, though it's not a reliable diagnostic method. Here's an overview:
 
 The core idea
