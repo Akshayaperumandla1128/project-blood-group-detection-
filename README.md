@@ -51,7 +51,7 @@ Important caveats
 
 
 
-Not a validated diagnostic method. No blood bank, hospital, or forensic lab uses fingerprints to determine blood type. Actual blood typing requires a blood sample and antibody-antigen reaction tests (agglutination).
+Not a validated diagnostic method. No blood bank, hospital, or forensic lab uses fingerprints to determine blood type. Actual blood typing requires a blood sample and antibody-antigen reaction tests (agglutination).it is a noninvasive procedure for finding the blood group.
 
 
 
